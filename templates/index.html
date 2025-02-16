@@ -76,7 +76,7 @@
             })
             .then(response => response.json())
             .then(data => {
-                chatBox.innerHTML += `<p><strong>Chatbot:</strong>Based on your symptoms, you can consider  <B>${data.medicine}<B> </p>`;
+                chatBox.innerHTML += `<p><strong>Asana:</strong>Based on your symptoms, you can consider  <B>${data.medicine}<B> </p>`;
                 chatBox.scrollTop = chatBox.scrollHeight;
             });
         }
