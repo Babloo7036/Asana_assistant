@@ -54,6 +54,4 @@ Open `chatbot_template.html` in a web browser.
 - Integrate a **Database** for storing chat history.
 - Improve UI with **React.js** for dynamic interactions.
 
-## License
-This project is licensed under the **MIT License**.
 
