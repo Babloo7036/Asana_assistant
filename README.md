@@ -1,4 +1,5 @@
 # Asana_assistant
+**Asana** is an AI-powered chatbot designed to assist users in identifying potential medications based on their symptoms. Users can describe their health concerns, and Asana intelligently analyzes their symptoms to suggest suitable medicines. It leverages advanced natural language processing (NLP) and medical databases to provide accurate and relevant recommendations, enhancing user convenience and healthcare accessibility.
 
 ## Overview
 This project is a **Pharma Chatbot** that suggests medicines based on user symptoms. It is built using **Flask** for the backend and **HTML, CSS, and JavaScript** for the frontend. The chatbot leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** to provide accurate medicine recommendations.
