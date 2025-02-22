@@ -4,9 +4,9 @@
 ## Overview
 This project is a **Pharma Chatbot** that suggests medicines based on user symptoms. It is built using **Flask** for the backend and **HTML, CSS, and JavaScript** for the frontend. The chatbot leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** to provide accurate medicine recommendations.
 
-**Live Demo** Integrated chatbot in website - [https://babloo7036.github.io/pharmay_frontend/]
+**Live Demo :** Integrated chatbot in website - [https://babloo7036.github.io/pharmay_frontend/]
 
-**Live Demo** Chatbot Webapplication - [https://asana-assistant.onrender.com]
+**Live Demo :** Chatbot Webapplication - [https://asana-assistant.onrender.com]
 
 
 ## Features
